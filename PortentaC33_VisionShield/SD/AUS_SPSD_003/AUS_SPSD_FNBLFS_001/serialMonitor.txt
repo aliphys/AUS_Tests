@@ -1,0 +1,9 @@
+---
+Test Case ID: AUS_SPSD_FNBLFS_001
+---
+testContent value:Hello World!. With CRC value:28
+testFilename value:.txt. With CRC value:135
+
+Files found:
+[F] /sdcard/.txt
+Data read was Hello World! with CRC value 28

@@ -1,0 +1,9 @@
+---
+Test Case ID: AUS_SPIS_FNBLFS_005
+---
+testContent value:Hello World!. With CRC value:28
+testFilename value:10char.txt. With CRC value:97
+
+Files found:
+[F] /internal/10char.txt
+Data read was Hello World! with CRC value 28

@@ -1,0 +1,8 @@
+---
+Test Case ID: AUS_SPSD_TXTBLFS_003
+---
+Error mounting storage device.
+testContent value: UDHRen. With CRC value:102
+testFilename value:UDHRen.txt. With CRC value:48
+
+Data read from UDHRen.txt with CRC value 0

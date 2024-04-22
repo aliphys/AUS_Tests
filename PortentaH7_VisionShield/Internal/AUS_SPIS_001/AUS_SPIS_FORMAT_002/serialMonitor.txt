@@ -1,0 +1,17 @@
+---
+Test Case ID: AUS_SPIS_FORMAT_002
+---
+Arduino_UnifiedStorage debug messages ON.
+[Partitioning][isPartitioningSchemeValid][INFO] Partitioning Scheme is Valid
+[Partitioning][eraseMBRSector][INFO] MBR Sector Erased
+[Partitioning][eraseMBRSector][INFO] MBR Sector Erased
+[Partitioning][INFO] Partition 1 created
+[Partitioning][formatPartition][INFO] Formatting partition 1
+[Partitioning][formatPartition][INFO] Partition 1 formatted successfully
+[Partitioning][readPartitions][INFO] Partition 1 is formatted with LittleFS file system
+[Partitioning][readPartitions][INFO] Partition 2 is empty, skipping
+[Partitioning][readPartitions][INFO] Partition 3 is empty, skipping
+[Partitioning][readPartitions][INFO] Partition 4 is empty, skipping
+Partition: 1
+Size: 12284
+Type: LitlleFS

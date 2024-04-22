@@ -1,0 +1,9 @@
+---
+Test Case ID: AUS_SPUSB_FNBLFS_009
+---
+testContent value:Hello World!. With CRC value:28
+testFilename value:255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255.txt. With CRC value:127
+
+Files found:
+[F] /usb/255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255chars255.txt
+Data read was Hello World! with CRC value 28

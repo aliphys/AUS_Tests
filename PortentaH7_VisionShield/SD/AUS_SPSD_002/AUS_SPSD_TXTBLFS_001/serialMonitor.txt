@@ -1,0 +1,30 @@
+---
+Test Case ID: AUS_SPSD_TXTBLFS_001
+---
+Arduino_UnifiedStorage debug messages ON.
+[SDCard][format][INFO] Mounting SD drive
+[SDCard][begin][ERROR] Error mounting SD card: 22
+[SDCard][format][INFO] Unmounting SD drive
+[SDCard][unmount][ERROR] Error unmounting SD card: 22
+[SDCard][format][INFO] SD card formatted successfully
+[SDCard][begin][INFO] SD card mounted successfully
+testContent value:Hello World!. With CRC value:28
+testFilename value:Hello World!.txt. With CRC value:8
+[Folder][INFO] Folder already existing, opening : /sdcard
+[Folder][createFile][INFO] Creating file: /sdcard/Hello World!.txt
+[File][write][INFO] Wrote 12 bytes to file: /sdcard/Hello World!.txt
+[File][available][INFO] Available bytes in file: 12
+[File][available][INFO] Available bytes in file: 11
+[File][available][INFO] Available bytes in file: 10
+[File][available][INFO] Available bytes in file: 9
+[File][available][INFO] Available bytes in file: 8
+[File][available][INFO] Available bytes in file: 7
+[File][available][INFO] Available bytes in file: 6
+[File][available][INFO] Available bytes in file: 5
+[File][available][INFO] Available bytes in file: 4
+[File][available][INFO] Available bytes in file: 3
+[File][available][INFO] Available bytes in file: 2
+[File][available][INFO] Available bytes in file: 1
+[File][available][INFO] Available bytes in file: 0
+
+Data read was Hello World! with CRC value 28

@@ -1,0 +1,7 @@
+    ---
+Test Case ID: AUS_SPUSB_TXTBLFS_004
+---
+testContent value: UDHRfa. With CRC value:192
+testFilename value:UDHRfa.txt. With CRC value:123
+
+Data read from UDHRfa.txt with CRC value 192

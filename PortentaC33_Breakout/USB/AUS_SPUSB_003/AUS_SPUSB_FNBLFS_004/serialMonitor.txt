@@ -1,0 +1,9 @@
+---
+Test Case ID: AUS_SPUSB_FNBLFS_004
+---
+testContent value:Hello World!. With CRC value:28
+testFilename value:9char.txt. With CRC value:0
+
+Files found:
+[F] /usb/9char.txt
+Data read was Hello World! with CRC value 28

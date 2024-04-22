@@ -1,0 +1,7 @@
+---
+Test Case ID: AUS_SPSD_TXTBLFS_002
+---
+testContent value:The quick brown fox jumps over the lazy dog. With CRC value:193
+testFilename value:The quick brown fox jumps over the lazy dog.txt. With CRC value:59
+
+Data read was The quick brown fox jumps over the lazy dog with CRC value 193

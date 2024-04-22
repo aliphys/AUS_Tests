@@ -1,0 +1,30 @@
+---
+Test Case ID: AUS_SPUSB_TXTBLFS_001
+---
+Arduino_UnifiedStorage debug messages ON.
+[USBStorage][format][INFO] Mounting USB drive
+[USBStorage][begin][INFO] USB drive mounted successfully
+[USBStorage][format][INFO] Unmounting USB drive
+[USBStorage][unmount][INFO] USB drive unmounted successfully
+[USBStorage][format][INFO] USB card formatted successfully
+[USBStorage][begin][INFO] USB drive mounted successfully
+testContent value:Hello World!. With CRC value:28
+testFilename value:Hello World!.txt. With CRC value:8
+[Folder][INFO] Folder already existing, opening : /usb
+[Folder][createFile][INFO] Creating file: /usb/Hello World!.txt
+[File][write][INFO] Wrote 12 bytes to file: /usb/Hello World!.txt
+[File][available][INFO] Available bytes in file: 12
+[File][available][INFO] Available bytes in file: 11
+[File][available][INFO] Available bytes in file: 10
+[File][available][INFO] Available bytes in file: 9
+[File][available][INFO] Available bytes in file: 8
+[File][available][INFO] Available bytes in file: 7
+[File][available][INFO] Available bytes in file: 6
+[File][available][INFO] Available bytes in file: 5
+[File][available][INFO] Available bytes in file: 4
+[File][available][INFO] Available bytes in file: 3
+[File][available][INFO] Available bytes in file: 2
+[File][available][INFO] Available bytes in file: 1
+[File][available][INFO] Available bytes in file: 0
+
+Data read was Hello World! with CRC value 28

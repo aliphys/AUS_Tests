@@ -1,0 +1,30 @@
+---
+Test Case ID: AUS_SPIS_TXTBLFS_001
+---
+Arduino_UnifiedStorage debug messages ON.
+[Partitioning][readPartitions][INFO] Partition 1 is formatted with LittleFS file system
+[Partitioning][readPartitions][INFO] Partition 2 is empty, skipping
+[Partitioning][readPartitions][INFO] Partition 3 is empty, skipping
+[Partitioning][readPartitions][INFO] Partition 4 is empty, skipping
+[InternalStorage][begin][INFO] Mounting partition 1 as LittleFS
+[InternalStorage][begin][INFO] Mounting partition 1 as LittleFS
+testContent value:Hello World!. With CRC value:28
+testFilename value:Hello World!.txt. With CRC value:8
+[Folder][INFO] Folder already existing, opening : /internal
+[Folder][createFile][INFO] Creating file: /internal/Hello World!.txt
+[File][write][INFO] Wrote 12 bytes to file: /internal/Hello World!.txt
+[File][available][INFO] Available bytes in file: 12
+[File][available][INFO] Available bytes in file: 11
+[File][available][INFO] Available bytes in file: 10
+[File][available][INFO] Available bytes in file: 9
+[File][available][INFO] Available bytes in file: 8
+[File][available][INFO] Available bytes in file: 7
+[File][available][INFO] Available bytes in file: 6
+[File][available][INFO] Available bytes in file: 5
+[File][available][INFO] Available bytes in file: 4
+[File][available][INFO] Available bytes in file: 3
+[File][available][INFO] Available bytes in file: 2
+[File][available][INFO] Available bytes in file: 1
+[File][available][INFO] Available bytes in file: 0
+
+Data read was Hello World! with CRC value 28

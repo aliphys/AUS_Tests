@@ -1,0 +1,8 @@
+---
+Test Case ID: AUS_SPIS_FNBLFS_010
+---
+testContent value:Hello World!. With CRC value:28
+testFilename value:256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256chars256c.txt. With CRC value:182
+
+Files found:
+Data read was  with CRC value 0

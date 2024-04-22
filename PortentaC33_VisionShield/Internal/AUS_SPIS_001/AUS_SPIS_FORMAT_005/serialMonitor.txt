@@ -1,0 +1,30 @@
+---
+Test Case ID: AUS_SPIS_FORMAT_005
+---
+Arduino_UnifiedStorage debug messages ON.
+Before format:
+[Partitioning][readPartitions][INFO] Partition 1 is formatted with LittleFS file system
+[Partitioning][readPartitions][INFO] Partition 2 is formatted with FAT file system
+[Partitioning][readPartitions][INFO] Partition 3 is empty, skipping
+[Partitioning][readPartitions][INFO] Partition 4 is empty, skipping
+Partition: 1
+Size: 6140
+Type: LitlleFS
+
+Partition: 2
+Size: 6144
+Type: FAT
+
+[InternalStorage][begin][INFO] Mounting partition 2 as FAT
+After format:
+[Partitioning][readPartitions][INFO] Partition 1 is formatted with LittleFS file system
+[Partitioning][readPartitions][INFO] Partition 2 is formatted with LittleFS file system
+[Partitioning][readPartitions][INFO] Partition 3 is empty, skipping
+[Partitioning][readPartitions][INFO] Partition 4 is empty, skipping
+Partition: 1
+Size: 6140
+Type: LitlleFS
+
+Partition: 2
+Size: 6144
+Type: LitlleFS
